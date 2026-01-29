@@ -184,7 +184,9 @@ const App = () => {
           </div>
           <div className="contact-actions">
             <a href="mailto:arvincalinog.lj@gmail.com" className="btn-solid-white">Send Message</a>
-            <a href="https://www.linkedin.com/in/arvin-calinog-75a4183a6/" target="_blank" rel="noreferrer" className="btn-outline-white">LinkedIn Profile</a>
+            <a href="https://www.facebook.com/arvincalinog" target="_blank" rel="noreferrer" className="btn-outline-white">Facebook</a>
+            <a href="https://www.linkedin.com/in/arvin-calinog-75a4183a6/" target="_blank" rel="noreferrer" className="btn-outline-white">LinkedIn</a>
+            <a href="https://vinxy09.github.io/Arvin-Portfolio-Main/" target="_blank" rel="noreferrer" className="btn-outline-white">Portfolio</a>
           </div>
           <div className="availability-tag">
             <p>Available for IT opportunities in Workflow Optimization & Data Management</p>
